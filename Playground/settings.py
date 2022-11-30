@@ -55,7 +55,7 @@ ROOT_URLCONF = 'Playground.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["D:/CarpetaGitHub/Playground/AppCoder/template"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
